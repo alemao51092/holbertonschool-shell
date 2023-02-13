@@ -1,0 +1,2 @@
+#!/bin/bash
+finde io_redirections_and_filters -type -empty
